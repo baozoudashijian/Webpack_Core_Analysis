@@ -1,5 +1,3 @@
-# Object file
-*.o
+/node_modules
 
-# Ada Library Information
-*.ali
+yarn.lock
