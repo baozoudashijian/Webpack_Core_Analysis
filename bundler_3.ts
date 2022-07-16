@@ -1,3 +1,4 @@
+// 分析webpack源码 2022-7-16
 import { parse } from '@babel/parser'
 import traverse from '@babel/traverse'
 import { readFileSync, writeFileSync } from "fs";
